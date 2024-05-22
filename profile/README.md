@@ -14,4 +14,10 @@ The **Software Engineering and Application Laboratory (SEA Laboratory)** is dedi
 - **Study Group**: Providing a collaborative learning environment where students can develop their skills, and gain detailed hands-on experience in Fundamentals, Mobile Development, Web Development, Desktop Development, and Game Development
 - **Practicum**: Focusing practical sessions that complement theoretical coursework, giving students the opportunity to apply their knowledge in C and Python Languages.
 
+## ❗ FAQS
+<ul>
+  <li>
+    Currently Playing
+  </li>
+</ul>
 
