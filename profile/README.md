@@ -1,4 +1,4 @@
-# SEA LABORATORY (Software Engineering and Application Laboratory)
+# SEA LABORATORY
 
 **`Computer Engineering Laboratory`**   **`Coders`**
 
