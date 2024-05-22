@@ -1,6 +1,6 @@
 # Halo para warga SEAntuy 🌊🌊🌊
 
-**`Computer Engineering Laboratory`** **`Coders`**
+**`Computer Engineering Laboratory`**   **`Coders`**
 
 Haloo Coders
 
