@@ -1,4 +1,4 @@
-# Halo para warga SEAntuy 🌊🌊🌊
+# SEA LABORATORY
 
 **`Computer Engineering Laboratory`**   **`Coders`**
 
