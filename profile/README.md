@@ -1,6 +1,6 @@
 # SEA LABORATORY
 
-**`Computer Engineering Laboratory`**   **`Coders`**
+**`Computer Engineering Laboratory`** **`Coders`**
 
 Haloo Coders
 
