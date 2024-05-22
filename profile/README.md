@@ -12,7 +12,7 @@ Haloo Coders
       </p>
       <li>🎧 Currently Listening</li>
       <br/>
-      ![Recently Playes](https://spotify-recently-played-readme.vercel.app/api?user=21ychoh3xlwohzqhrclohxo2i&width=1000&count=3)
+     
       <br/>
       <br/>
       <li>🧰 Languages and Tools</li>
@@ -29,7 +29,5 @@ Haloo Coders
       <img align="left" alt="Linux" width="23px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img align="left" alt="Git" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    </ul>
-
----
 
 
