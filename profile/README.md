@@ -1,4 +1,4 @@
-# SEA LABORATORY
+# SEA LABORATORY 🌊🌊🌊
 
 **`Computer Engineering Laboratory`** **`Coders`**
 
