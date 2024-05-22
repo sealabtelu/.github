@@ -1,8 +1,8 @@
-# Halo Warga SEAntuy 🌊
+# Halo para warga SEAntuy 🌊🌊🌊
 
 **`Computer Engineering Laboratory`** **`Coders`**
 
-Hi, my name is Axel and i'm a computer engineering student who loves to code and learn web development and machine learning. 
+Haloo
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=szyxxx&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
