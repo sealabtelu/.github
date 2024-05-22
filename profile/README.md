@@ -10,9 +10,8 @@ The **Software Engineering and Application Laboratory (SEA Laboratory)** is dedi
 
 ## 🎯 Our Mission
 
-- **Research**: Conducting high-impact research in various areas of software engineering, including but not limited to software design, testing, maintenance, and quality assurance.
-- **Development**: Creating practical software applications that address real-world problems and meet industry standards.
-- **Practicum**: Providing a collaborative learning environment where students can develop their skills, gain hands-on experience, and prepare for successful careers in software engineering.
-
+- **Research and Development**: Conducting high-impact research in various areas of software engineering, including but not limited to software design, testing, maintenance, and quality assurance, and also creating practical software applications that address real-world problems and meet industry standards.
+- **Study Group**: Providing a collaborative learning environment where students can develop their skills, and gain detailed hands-on experience in Fundamentals, Mobile Development, Web Development, Desktop Development, and Game Development
+- **Practicum**: Focusing practical sessions that complement theoretical coursework, giving students the opportunity to apply their knowledge in C and Python Languages.
 
 
