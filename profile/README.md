@@ -2,7 +2,7 @@
 
 **`Computer Engineering Laboratory`** **`Coders`**
 
-Welcome to the official GitHub organization of the **Software Engineering and Application Laboratory (SEA Laboratory)**, a research and development lab within the S1 Teknik Komputer program at Telkom University.
+Welcome to the official GitHub organization of the **Software Engineering and Application Laboratory (SEA Laboratory)**, a research and development lab within the Computer Engineering program at Telkom University.
 
 ## About Us
 
