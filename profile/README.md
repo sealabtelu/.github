@@ -1,6 +1,6 @@
 # SEA LABORATORY - TELKOM UNIVERSITY
 
-**`Computer Engineering Laboratory`** **`Coders`** **`Weebs`** **`Smart People`**
+**`Computer Engineering Laboratory`** **`Coders`** **`Weebs`** **`Santuy People`**
 
 Welcome to the official GitHub organization of the **Software Engineering and Application Laboratory (SEA Laboratory)**, a research and development lab within the Computer Engineering program at Telkom University.
 
